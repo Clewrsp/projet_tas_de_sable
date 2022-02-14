@@ -5,3 +5,5 @@
 # Clément CRESPIN
 # https://github.com/uvsq-info/projet_tas_de_sable
 #########################################
+
+import tkinter as tk
