@@ -1,19 +1,19 @@
-#########################################
+##################################################
 # groupe LDD 5
 # Faustine PASSERAT
 # Anatole JOORIS
 # Clément CRESPIN
 # https://github.com/uvsq-info/projet_tas_de_sable
-#########################################
+##################################################
 
-<<<<<<< HEAD
-
-
-=======
-#### Import librairies ####
-
+#### LIBRAIRIES ####
 import tkinter as tk
 import random as rd
+
+
+##############################
+# PARTIE INTERFACE GRAPHIQUE #
+##############################
 
 
 #### CREATION DE LA FENÊTRE ####
